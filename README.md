@@ -15,3 +15,13 @@
 
  - NLP [Experiment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
 
+
+## IAT - 1
+
+ - [Question Paper](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP%20IAT-1%20Question%20Paper.pdf) - IAT-1
+ 
+ - [NLP Module - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-1.pdf)
+ 
+ - [NLP Module - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-2.pdf)
+ 
+ - [NLP Module - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-3.pdf)
