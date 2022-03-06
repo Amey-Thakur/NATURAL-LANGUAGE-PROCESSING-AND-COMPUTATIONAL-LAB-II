@@ -9,6 +9,11 @@
 
 ---
 
+## Assignments
+
+ - NLP [Assignment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf)
+
+
 ## Experiments
  
  >Natural Language Processing Lab | Computational Lab - II
