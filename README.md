@@ -19,6 +19,14 @@
  >Natural Language Processing Lab | Computational Lab - II
 
  - NLP [Experiment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
+ 
+ - NLP [Experiment - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%202/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [Stemming & Lemmatization](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%202/Stemming%26Lemmatization.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/stemming-lemmatization)
+ 
+ - NLP [Experiment - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%203/AMEY_B-50_NLP_EXPERIMENT-3.pdf)
+ 
+ - NLP [Experiment - 4](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%204/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
+ 
+ - NLP [Experiment - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bi-gram.py)
 
 
 ## IAT - 1
