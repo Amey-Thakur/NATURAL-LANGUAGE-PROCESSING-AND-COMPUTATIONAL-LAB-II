@@ -23,7 +23,7 @@
  
  - NLP [Module - 5]()
  
- - NLP [Module - 6]()
+ - NLP [Module - 6]
 
 
 ## Assignments
