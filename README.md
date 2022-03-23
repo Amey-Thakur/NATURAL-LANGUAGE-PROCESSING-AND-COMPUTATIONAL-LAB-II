@@ -19,11 +19,11 @@
  
  - NLP [Module - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/THE%20WALL/NLP_Module-3.pdf)
  
- - NLP [Module - 4]()
+ - NLP [Module - 4](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/THE%20WALL/NLP_Module-4.pdf)
  
- - NLP [Module - 5]()
+ - NLP [Module - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/THE%20WALL/NLP_Module-5.pdf)
  
- - NLP [Module - 6]()
+ - NLP [Module - 6](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/THE%20WALL/NLP_Module-6.pdf)
 
 
 ## Assignments
