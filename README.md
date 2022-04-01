@@ -46,6 +46,12 @@
  - NLP [Experiment - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bi-gram.py) - [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bigram.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
  
  - NLP [Experiment - 6](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%206/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
+ 
+ - NLP [Experiment - 7](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [Viterbi Algorithm](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/Viterbi_Algorithm.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/Viterbi_Algorithm.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm)
+ 
+ - NLP [Experiment - 8](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
+ 
+ - NLP [Experiment - 9](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
 
 
 ## IAT - 1
