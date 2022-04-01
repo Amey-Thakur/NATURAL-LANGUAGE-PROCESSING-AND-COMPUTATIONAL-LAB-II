@@ -43,7 +43,7 @@
  
  - NLP [Experiment - 4](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%204/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
  
- - NLP [Experiment - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bi-gram.py) - [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bigram.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
+ - NLP [Experiment - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bi-gram.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bigram.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
  
  - NLP [Experiment - 6](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%206/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
  
