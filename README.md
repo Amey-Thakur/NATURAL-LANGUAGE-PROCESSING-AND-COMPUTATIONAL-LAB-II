@@ -29,6 +29,10 @@
 ## Assignments
 
  - NLP [Assignment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf)
+ 
+ - NLP [Assignment - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-2.pdf)
+ 
+ - NLP [Assignment - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) | [Draft](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-3%20DRAFT.pdf)
 
 
 ## Experiments
@@ -63,4 +67,9 @@
  - [NLP Module - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-2.pdf)
  
  - [NLP Module - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-3.pdf)
+
+
+## Exit Survey
+
+ - NLP Course [Exit Survey](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Exit%20Survey/NLP%20Theory%20exit%20survey%20FH-2022.pdf)
 
