@@ -57,7 +57,7 @@
  
  - NLP [Experiment - 9](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
  
- - NLP [Case Study](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/AMEY_B-50_NLP_CASE_STUDY.pdf)
+ - NLP [Experiment - 10](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%2010/AMEY_B-50_NLP_CASE_STUDY.pdf) | [Reasearch Paper](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%2010/Research%20Paper.pdf)
 
 
 ## IAT - 1
