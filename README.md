@@ -56,6 +56,8 @@
  - NLP [Experiment - 8](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
  
  - NLP [Experiment - 9](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
+ 
+ - NLP [Case Study](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/AMEY_B-50_NLP_CASE_STUDY.pdf)
 
 
 ## IAT - 1
