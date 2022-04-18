@@ -71,6 +71,11 @@
  - [NLP Module - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-3.pdf)
 
 
+## IAT - 1
+
+ - [Question Bank](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP_IAT-2.pdf)
+
+
 ## Exit Survey
 
  - NLP Course [Exit Survey](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Exit%20Survey/NLP%20Theory%20exit%20survey%20FH-2022.pdf)
