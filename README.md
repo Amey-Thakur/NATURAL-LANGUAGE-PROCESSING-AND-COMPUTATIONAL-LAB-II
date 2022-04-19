@@ -71,12 +71,23 @@
  - [NLP Module - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-1/NLP_Module-3.pdf)
 
 
-## IAT - 1
+## IAT - 2
 
- - [Question Bank](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP_IAT-2.pdf)
+ - [Question Paper](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP_IAT-2_Question_Paper.pdf) - IAT-2
+
+ - [Question Bank Handwritten](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP_IAT-2.pdf)
+
+ - [Question Bank](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP_Question_Bank.pdf)
+
+ - [IAT-2 Important Questions](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP%20QB%20UT2.pdf)
 
 
 ## Exit Survey
 
  - NLP Course [Exit Survey](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Exit%20Survey/NLP%20Theory%20exit%20survey%20FH-2022.pdf)
+
+
+## Submission Report
+
+ - [NLP Submission Report](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Submission%20Report/NLP_Submission_Report.pdf)
 
