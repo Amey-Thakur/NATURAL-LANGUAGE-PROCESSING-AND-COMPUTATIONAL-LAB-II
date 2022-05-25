@@ -82,6 +82,17 @@
  - [IAT-2 Important Questions](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/IAT-2/NLP%20QB%20UT2.pdf)
 
 
+## Semester Exam
+
+ - [Question Paper]()
+ 
+ - [Question Bank](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP_Question_Bank.pdf)
+
+ - [Question Bank MCQs](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP%20MCQ%2BDIS%20Answers.pdf)
+ 
+ - [Timetable](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
+
+
 ## Exit Survey
 
  - NLP Course [Exit Survey](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Exit%20Survey/NLP%20Theory%20exit%20survey%20FH-2022.pdf)
