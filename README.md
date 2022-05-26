@@ -84,11 +84,11 @@
 
 ## Semester Exam
 
- - [Question Paper]()
+ - [Question Paper](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP.pdf)
  
  - [Question Bank](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP_Question_Bank.pdf)
 
- - [Question Bank MCQs](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP%20MCQ%2BDIS%20Answers.pdf)
+ - [Question Bank MCQs](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/NLP_QB_ANS%20MCQ.pdf)
  
  - [Timetable](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
 
