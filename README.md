@@ -101,4 +101,6 @@
 ## Submission Report
 
  - [NLP Submission Report](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Submission%20Report/NLP_Submission_Report.pdf)
+ 
+ - Semester 8 [Submission Report](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Submission%20Report/Amey_B-50_Submission_Report.pdf)
 
