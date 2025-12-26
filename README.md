@@ -31,36 +31,36 @@
 
 ## Assignments
 
- - NLP [Assignment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf)
+ - NLP [Assignment - 1](Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf)
  
- - NLP [Assignment - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-2.pdf)
+ - NLP [Assignment - 2](Assignments/AMEY_B-50_NLP_ASSIGNMENT-2.pdf)
  
- - NLP [Assignment - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) | [Draft](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Assignments/AMEY_B-50_NLP_ASSIGNMENT-3%20DRAFT.pdf)
+ - NLP [Assignment - 3](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) | [Draft](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3%20DRAFT.pdf)
 
 
 ## Experiments
  
  >Computational Lab - II | [Virtual Lab](http://nlp-iiith.vlabs.ac.in)
 
- - NLP [Experiment - 1](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING/blob/main/Experiments/Experiment%201/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
+   - NLP [Experiment - 1](Experiments/Experiment%201/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](Experiments/Experiment%201/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](Experiments/Experiment%201/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
  
- - NLP [Experiment - 2](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%202/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [Stemming & Lemmatization](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%202/Stemming%26Lemmatization.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/stemming-lemmatization)
+  - NLP [Experiment - 2](Experiments/Experiment%202/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [Stemming & Lemmatization](Experiments/Experiment%202/Stemming%26Lemmatization.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/stemming-lemmatization)
  
- - NLP [Experiment - 3](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%203/AMEY_B-50_NLP_EXPERIMENT-3.pdf)
+  - NLP [Experiment - 3](Experiments/Experiment%203/AMEY_B-50_NLP_EXPERIMENT-3.pdf)
  
- - NLP [Experiment - 4](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%204/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
+  - NLP [Experiment - 4](Experiments/Experiment%204/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
  
- - NLP [Experiment - 5](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bi-gram.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%205/Bigram.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
+  - NLP [Experiment - 5](Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](Experiments/Experiment%205/Bi-gram.py) | [Google Colaboratory](Experiments/Experiment%205/Bigram.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
  
- - NLP [Experiment - 6](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%206/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
+  - NLP [Experiment - 6](Experiments/Experiment%206/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
  
- - NLP [Experiment - 7](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [Viterbi Algorithm](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/Viterbi_Algorithm.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%207/Viterbi_Algorithm.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm)
+  - NLP [Experiment - 7](Experiments/Experiment%207/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [Viterbi Algorithm](Experiments/Experiment%207/Viterbi_Algorithm.py) | [Google Colaboratory](Experiments/Experiment%207/Viterbi_Algorithm.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm)
  
- - NLP [Experiment - 8](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.py) | [Google Colaboratory](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%208/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
+  - NLP [Experiment - 8](Experiments/Experiment%208/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](Experiments/Experiment%208/Morphological_Parser.py) | [Google Colaboratory](Experiments/Experiment%208/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
  
- - NLP [Experiment - 9](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
+  - NLP [Experiment - 9](Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
  
- - NLP [Experiment - 10](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%2010/AMEY_B-50_NLP_CASE_STUDY.pdf) | [Reasearch Paper](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Experiments/Experiment%2010/Research%20Paper.pdf)
+  - NLP [Experiment - 10](Experiments/Experiment%2010/AMEY_B-50_NLP_CASE_STUDY.pdf) | [Reasearch Paper](Experiments/Experiment%2010/Research%20Paper.pdf)
 
 
 ## IAT - 1
@@ -116,6 +116,6 @@ This repository and all linked academic content are made available under the **C
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 8th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the 8th Semester of Engineering @ University of Mumbai 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
