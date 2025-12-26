@@ -2,6 +2,8 @@
 
  👍🏻 DLO8012: NLP & CSL804: CL-II [SEMESTER VIII]
 
+ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/MU%20SEM%20VIII%20SYLLABUS.pdf)**
@@ -104,6 +106,13 @@
  - [NLP Submission Report](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Submission%20Report/NLP_Submission_Report.pdf)
  
  - Semester 8 [Submission Report](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II/blob/main/Submission%20Report/Amey_B-50_Submission_Report.pdf)
+
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
