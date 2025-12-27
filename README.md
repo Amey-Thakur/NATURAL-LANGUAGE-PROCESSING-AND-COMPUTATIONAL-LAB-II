@@ -197,7 +197,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | 3 | Perform and analyse an n-gram modelling for corpuses using Virtual Lab | February 07, 2022 | [N-Gram Modelling](https://www.kaggle.com/code/ameythakur20/n-gram-modelling) | [View](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf) |
 | 4 | Perform and analyse smoothing operations for n-gram models using the virtual lab | February 14, 2022 | [N-Gram Smoothing](https://www.kaggle.com/code/ameythakur20/n-gram-smoothing) | [View](Computational%20Lab%20-%20II/Experiment-4/AMEY_B-50_NLP_EXPERIMENT-4.pdf) |
 | 5 | Implement a bi-gram model for 3 sentences using python or NLTK | February 21, 2022 | [Bi-gram](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) |
-| 6 | Experiment 6 | - | - | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) |
+| 6 | Perform and analyse POS Tagging - Hidden Markov Model using a virtual lab | February 28, 2022 | [POS Tagging](Computational%20Lab%20-%20II/Experiment-6/POS_Tagging.py) | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) |
 | 7 | Sequence Labeling using Viterbi Algorithm | - | [Viterbi Algorithm](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm) | [View](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) |
 | 8 | Morphological Parsing | - | [Morphological Parser](https://www.kaggle.com/code/ameythakur20/morphological-parser) | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) |
 | 9 | Experiment 9 | - | - | [View](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf) |
@@ -249,6 +249,15 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
 | `Bi_Gram_Model.py` | N-Grams | Bi-gram language model implementation | [View](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/Bi_Gram_Model.py) |
+</details>
+
+<details>
+<summary><b>Experiment-6: POS Tagging (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `POS_Tagging.py` | POS Tagging | HMM Emission and Transition Probabilities | - | [View](Computational%20Lab%20-%20II/Experiment-6/POS_Tagging.py) |
 </details>
 
 <details>
