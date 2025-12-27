@@ -201,7 +201,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | 7 | Implement the Viterbi algorithm using python or NLTK | April 01, 2022 | [Viterbi Algorithm](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) | [View](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) |
 | 8 | Implement morphological parser to accept and reject given string | April 01, 2022 | [Morphological Parser](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) |
 | 9 | Perform and analyse chunking operations using the virtual lab | April 01, 2022 | [Chunking](https://www.kaggle.com/code/ameythakur20/chunking) | [View](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf) |
-| 10 | Case Study: Research Paper Analysis | - | - | [View](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) |
+| 10 | Case Study: Research Paper Analysis - Semantic Analysis of NLP | April 14, 2022 | [Semantic Analysis](Computational%20Lab%20-%20II/Experiment-10/Semantic_Analysis.py) | [View](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) |
 
 ### Program Details
 
@@ -285,6 +285,15 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
 | `Chunking.py` | Shallow Parsing | Noun Phrase (NP) chunking visualization | [View](https://www.kaggle.com/code/ameythakur20/chunking) | [View](Computational%20Lab%20-%20II/Experiment-9/Chunking.py) |
+</details>
+
+<details>
+<summary><b>Experiment-10: Semantic Analysis (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Semantic_Analysis.py` | Semantic Analysis | Tokenization, NER, and Sentiment Analysis | - | [View](Computational%20Lab%20-%20II/Experiment-10/Semantic_Analysis.py) |
 </details>
 
 ---
