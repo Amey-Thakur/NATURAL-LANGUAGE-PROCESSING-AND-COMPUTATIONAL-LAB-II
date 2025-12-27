@@ -188,7 +188,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </div>
 
 > [!TIP]
-> **Virtual Lab**: Explore the [IIIT Hyderabad NLP Virtual Lab](http://nlp-iiith.vlabs.ac.in) for interactive simulations.
+> **Virtual Lab**: Natural Language Processing experiments can also be accessed through the **[IIIT Hyderabad Virtual Lab](http://nlp-iiith.vlabs.ac.in)**.
 
 | # | Experiment | Date | Kaggle Notebooks | Report |
 |:-:|:---|:---:|:-:|:-:|
