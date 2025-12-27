@@ -22,11 +22,11 @@
 
 ---
 
-> [!NOTE]
-> **Environment Configuration**: This repository focuses on NLP implementations using **Python**. Key libraries include `NLTK`, `Spacy`, `TextBlob`, and `NumPy`.
-
 > [!TIP]
 > **Virtual Lab**: Many experiments utilize the [IIIT Hyderabad NLP Virtual Lab](http://nlp-iiith.vlabs.ac.in) for interactive simulations and foundational understanding before code implementation.
+
+> [!WARNING]
+> **Model Downloads**: Ensure all necessary NLTK corpora (e.g., `punkt`, `wordnet`) and Spacy models (e.g., `en_core_web_sm`) are downloaded before running the scripts to avoid `LookupError`.
 
 ---
 
