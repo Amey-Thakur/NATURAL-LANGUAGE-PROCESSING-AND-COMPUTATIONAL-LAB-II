@@ -95,10 +95,17 @@ This collection includes **comprehensive reference materials** covering all majo
 | 23 | [Notes/3. Syntax analysis](Reference%20Books/Chapter%20wise%20notes/3.%20Syntax%20analysis.pdf) | Chapter Note |
 | 24 | [Notes/5. Pragmatics](Reference%20Books/Chapter%20wise%20notes/5.%20Pragmatics.pdf) | Chapter Note |
 | 25 | [Notes/6. Applications](Reference%20Books/Chapter%20wise%20notes/6.Applications.pdf) | Chapter Note |
-| 26 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
-| 27 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
-| 28 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
-| 29 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
+| 26 | [NLP Book/Index](Reference%20Books/NLP_StarEdu%20Searchable/NLP%20index.pdf) | Book Index |
+| 27 | [NLP Book/1](Reference%20Books/NLP_StarEdu%20Searchable/NLP%201.pdf) | Book Module 1 |
+| 28 | [NLP Book/2](Reference%20Books/NLP_StarEdu%20Searchable/NLP%202.pdf) | Book Module 2 |
+| 29 | [NLP Book/3](Reference%20Books/NLP_StarEdu%20Searchable/NLP%203.pdf) | Book Module 3 |
+| 30 | [NLP Book/4](Reference%20Books/NLP_StarEdu%20Searchable/NLP%204.pdf) | Book Module 4 |
+| 31 | [NLP Book/5](Reference%20Books/NLP_StarEdu%20Searchable/NLP%205.pdf) | Book Module 5 |
+| 32 | [NLP Book/6](Reference%20Books/NLP_StarEdu%20Searchable/NLP%206.pdf) | Book Module 6 |
+| 33 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
+| 34 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
+| 35 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
+| 36 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
 
 ---
 
