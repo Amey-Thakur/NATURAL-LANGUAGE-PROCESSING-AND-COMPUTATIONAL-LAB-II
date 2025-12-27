@@ -296,6 +296,12 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | `Semantic_Analysis.py` | Semantic Analysis | Tokenization, NER, and Sentiment Analysis | [View](https://www.kaggle.com/code/ameythakur20/semantic-analysis) | [View](Computational%20Lab%20-%20II/Experiment-10/Semantic_Analysis.py) |
 </details>
 
+### Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](Computational%20Lab%20-%20II/README.md) | Detailed navigation guide with program descriptions |
+
 ---
 
 <!-- =========================================================================================
