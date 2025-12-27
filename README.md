@@ -66,29 +66,29 @@ Comprehensive module-wise notes curated by Mega Satish:
  - NLP [Assignment - 3](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) | [Draft](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3%20DRAFT.pdf)
 
 
-## Experiments
+## Computational Lab - II
  
  >Computational Lab - II | [Virtual Lab](http://nlp-iiith.vlabs.ac.in)
 
-   - NLP [Experiment - 1](Experiments/Experiment%201/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](Experiments/Experiment%201/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](Experiments/Experiment%201/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
+   - NLP [Experiment - 1](Computational%20Lab%20-%20II/Experiment-1/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](Computational%20Lab%20-%20II/Experiment-1/Word_Analysis.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-analysis) | [Word Generator](Computational%20Lab%20-%20II/Experiment-1/Word_Generator.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/word-generator)
  
-  - NLP [Experiment - 2](Experiments/Experiment%202/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [Stemming & Lemmatization](Experiments/Experiment%202/Stemming%26Lemmatization.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/stemming-lemmatization)
+   - NLP [Experiment - 2](Computational%20Lab%20-%20II/Experiment-2/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [Stemming & Lemmatization](Computational%20Lab%20-%20II/Experiment-2/Stemming%26Lemmatization.ipynb) - [Kaggle](https://www.kaggle.com/ameythakur20/stemming-lemmatization)
  
-  - NLP [Experiment - 3](Experiments/Experiment%203/AMEY_B-50_NLP_EXPERIMENT-3.pdf)
+   - NLP [Experiment - 3](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf)
  
-  - NLP [Experiment - 4](Experiments/Experiment%204/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
+   - NLP [Experiment - 4](Computational%20Lab%20-%20II/Experiment-4/AMEY_B-50_NLP_EXPERIMENT-4.pdf)
  
-  - NLP [Experiment - 5](Experiments/Experiment%205/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](Experiments/Experiment%205/Bi-gram.py) | [Google Colaboratory](Experiments/Experiment%205/Bigram.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
+   - NLP [Experiment - 5](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [Bi-gram](Computational%20Lab%20-%20II/Experiment-5/Bi-gram.py) | [Google Colaboratory](Computational%20Lab%20-%20II/Experiment-5/Bigram.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bigram)
  
-  - NLP [Experiment - 6](Experiments/Experiment%206/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
+   - NLP [Experiment - 6](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf)
  
-  - NLP [Experiment - 7](Experiments/Experiment%207/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [Viterbi Algorithm](Experiments/Experiment%207/Viterbi_Algorithm.py) | [Google Colaboratory](Experiments/Experiment%207/Viterbi_Algorithm.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm)
+   - NLP [Experiment - 7](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [Viterbi Algorithm](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) | [Google Colaboratory](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm)
  
-  - NLP [Experiment - 8](Experiments/Experiment%208/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](Experiments/Experiment%208/Morphological_Parser.py) | [Google Colaboratory](Experiments/Experiment%208/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
+   - NLP [Experiment - 8](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [Morphological Parser](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) | [Google Colaboratory](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.ipynb) | [Kaggle](https://www.kaggle.com/code/ameythakur20/morphological-parser)
  
-  - NLP [Experiment - 9](Experiments/Experiment%209/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
+   - NLP [Experiment - 9](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf)
  
-  - NLP [Experiment - 10](Experiments/Experiment%2010/AMEY_B-50_NLP_CASE_STUDY.pdf) | [Reasearch Paper](Experiments/Experiment%2010/Research%20Paper.pdf)
+   - NLP [Experiment - 10](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) | [Reasearch Paper](Computational%20Lab%20-%20II/Experiment-10/Research%20Paper.pdf)
 
 
 ## IAT - 1
@@ -122,11 +122,6 @@ Comprehensive module-wise notes curated by Mega Satish:
  - [Question Bank MCQs](Semester%20Exam/NLP_QB_ANS%20MCQ.pdf)
  
  - [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf)
-
-
-## Exit Survey
-
- - NLP Course [Exit Survey](Exit%20Survey/NLP%20Theory%20exit%20survey%20FH-2022.pdf)
 
 
 ## Submission Report
