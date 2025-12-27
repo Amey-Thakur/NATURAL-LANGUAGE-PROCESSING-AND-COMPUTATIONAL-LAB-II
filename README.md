@@ -331,7 +331,7 @@ Internal assessment evaluations conducted during the course:
 | 2 | [Module 2 Notes](IAT-1/NLP_Module-2.pdf) | Personal Exam Preparation Notes |
 | 3 | [Module 3 Notes](IAT-1/NLP_Module-3.pdf) | Personal Exam Preparation Notes |
 | 4 | [Question Bank Handwritten](IAT-2/NLP_IAT-2.pdf) | Handwritten preparation notes |
-| 5 | [Question Bank](IAT-2/NLP_Question_Bank.pdf) | Comprehensive question bank |
+| 5 | [Question Bank](IAT-2/NLP_Question_Bank.pdf) | Exam preparation notes by Mega |
 | 6 | [Important Questions](IAT-2/NLP%20QB%20UT2.pdf) | Key questions for IAT-2 |
 
 ---
