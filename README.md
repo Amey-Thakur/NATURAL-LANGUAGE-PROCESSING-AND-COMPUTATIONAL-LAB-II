@@ -102,10 +102,15 @@ This collection includes **comprehensive reference materials** covering all majo
 | 30 | [NLP Book/4](Reference%20Books/NLP_StarEdu%20Searchable/NLP%204.pdf) | Book Module 4 |
 | 31 | [NLP Book/5](Reference%20Books/NLP_StarEdu%20Searchable/NLP%205.pdf) | Book Module 5 |
 | 32 | [NLP Book/6](Reference%20Books/NLP_StarEdu%20Searchable/NLP%206.pdf) | Book Module 6 |
-| 33 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
-| 34 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
-| 35 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
-| 36 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
+| 33 | [Viva/1](Reference%20Books/Viva/NLP%20Viva%20QB%201%20(with%20Answers).pdf) | Viva Question Bank 1 (with Answers) |
+| 34 | [Viva/2](Reference%20Books/Viva/NLP%20Viva%20QB%202.pdf) | Viva Question Bank 2 |
+| 35 | [Viva/3](Reference%20Books/Viva/NLP%20Viva%20QB%203.pdf) | Viva Question Bank 3 |
+| 36 | [Viva/4](Reference%20Books/Viva/NLP%20Viva%20QB%204%20with%20Solutions.pdf) | Viva Question Bank 4 with Solutions |
+| 37 | [Viva/5](Reference%20Books/Viva/NLP_Viva_Questions_Solution_2020.pdf) | Viva Questions Solution 2020 |
+| 38 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
+| 39 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
+| 40 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
+| 41 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
 
 ---
 
