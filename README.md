@@ -343,12 +343,17 @@ Internal assessment evaluations conducted during the course:
 
 Final semester examination submission:
 
+| # | Resource | Description | Date |
+|:-:|:---|:---|:-:|
+| 1 | [Question Paper](Semester%20Exam/NLP.pdf) | Official University Question Paper | May 26, 2022 |
+
+### Additional Resources:
+
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Question Paper](Semester%20Exam/NLP.pdf) | Official University Question Paper |
-| 2 | [Question Bank](Semester%20Exam/NLP_Question_Bank.pdf) | Personal Exam Preparation Notes |
-| 3 | [MCQs](Semester%20Exam/NLP_QB_ANS%20MCQ.pdf) | MCQ Question Bank with Answers |
-| 4 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 examination schedule |
+| 1 | [Question Bank](Semester%20Exam/NLP_Question_Bank.pdf) | Personal Exam Preparation Notes |
+| 2 | [MCQs](Semester%20Exam/NLP_QB_ANS%20MCQ.pdf) | MCQ Question Bank with Answers |
+| 3 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 examination schedule |
 
 ---
 
