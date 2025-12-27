@@ -261,13 +261,12 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-7: Sequence Labeling (2 Programs)</b></summary>
+<summary><b>Experiment-7: Viterbi Algorithm (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
-| `Viterbi_Algorithm.ipynb` | POS Tagging | Viterbi algorithm notebook | [View](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm) | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.ipynb) |
-| `Viterbi_Algorithm.py` | POS Tagging | Viterbi algorithm script | - | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) |
+| `Viterbi_Algorithm.py` | Sequence Labeling | Optimal state sequence calculation | [View](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm) | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) |
 </details>
 
 <details>
