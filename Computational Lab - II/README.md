@@ -9,7 +9,7 @@
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-word-analysis)
-  [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](./)
   [![Type](https://img.shields.io/badge/Type-Code%20%7C%20PDF-brightgreen.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Natural Language Processing, covering morphology, language modeling, POS tagging, parsing, and semantic analysis.**

@@ -183,7 +183,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Computational%20Lab%20-%20II/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Computational%20Lab%20-%20II/)
-  [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Computational%20Lab%20-%20II/)
+  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](Computational%20Lab%20-%20II/)
 
 </div>
 
