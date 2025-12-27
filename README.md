@@ -311,23 +311,28 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 
 Internal assessment evaluations conducted during the course:
 
-### IAT - 1
+### IAT - 1 · February 3, 2022
 
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Question Paper](IAT-1/NLP%20IAT-1%20Question%20Paper.pdf) | NLP Internal Assessment Test 1 Question Paper |
-| 2 | [Module 1 Notes](IAT-1/NLP_Module-1.pdf) | Personal IAT Preparation Notes |
-| 3 | [Module 2 Notes](IAT-1/NLP_Module-2.pdf) | Personal IAT Preparation Notes |
-| 4 | [Module 3 Notes](IAT-1/NLP_Module-3.pdf) | Personal IAT Preparation Notes |
 
-### IAT - 2
+### IAT - 2 · March 19, 2022
 
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Question Paper](IAT-2/NLP_IAT-2_Question_Paper.pdf) | NLP Internal Assessment Test 2 Question Paper |
-| 2 | [Question Bank Handwritten](IAT-2/NLP_IAT-2.pdf) | Handwritten preparation questions |
-| 3 | [Question Bank](IAT-2/NLP_Question_Bank.pdf) | Comprehensive question bank |
-| 4 | [Important Questions](IAT-2/NLP%20QB%20UT2.pdf) | Key questions for IAT-2 |
+
+### Additional Resources:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Module 1 Notes](IAT-1/NLP_Module-1.pdf) | Personal IAT Preparation Notes |
+| 2 | [Module 2 Notes](IAT-1/NLP_Module-2.pdf) | Personal IAT Preparation Notes |
+| 3 | [Module 3 Notes](IAT-1/NLP_Module-3.pdf) | Personal IAT Preparation Notes |
+| 4 | [Question Bank Handwritten](IAT-2/NLP_IAT-2.pdf) | Handwritten preparation questions |
+| 5 | [Question Bank](IAT-2/NLP_Question_Bank.pdf) | Comprehensive question bank |
+| 6 | [Important Questions](IAT-2/NLP%20QB%20UT2.pdf) | Key questions for IAT-2 |
 
 ---
 
