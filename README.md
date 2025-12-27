@@ -368,7 +368,8 @@ Course completion documentation with exit survey:
 |:-:|:---|:---|
 | 1 | [Submission Report](Submission%20Report/NLP_Submission_Report.pdf) | Final coursework submission report |
 | 2 | [Exit Survey (Theory)](Submission%20Report/NLP%20Theory%20exit%20survey%20FH-2022.pdf) | Course outcome survey for NLP Theory |
-| 3 | [Semester Report](Submission%20Report/Amey_B-50_Submission_Report.pdf) | Collective Semester 8 submission report |
+| 3 | [Theory Submission Sheet](Submission%20Report/NLP%20Theory%20Submission%20Sheet.jpeg) | Theory coursework submission sheet |
+| 4 | [Semester Report](Submission%20Report/Amey_B-50_Submission_Report.pdf) | Collective Semester 8 submission report |
 
 ---
 
