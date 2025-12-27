@@ -190,18 +190,18 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 > [!TIP]
 > **Virtual Lab**: Explore the [IIIT Hyderabad NLP Virtual Lab](http://nlp-iiith.vlabs.ac.in) for interactive simulations.
 
-| # | Experiment | Date | Report |
-|:-:|:---|:---:|:-:|
-| 1 | Perform Word analysis and word generation to study morphology using Virtual Lab | January 19, 2022 | [View](Computational%20Lab%20-%20II/Experiment-1/AMEY_B-50_NLP_EXPERIMENT-1.pdf) |
-| 2 | Stemming and Lemmatization | - | [View](Computational%20Lab%20-%20II/Experiment-2/AMEY_B-50_NLP_EXPERIMENT-2.pdf) |
-| 3 | Experiment 3 | - | [View](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf) |
-| 4 | Experiment 4 | - | [View](Computational%20Lab%20-%20II/Experiment-4/AMEY_B-50_NLP_EXPERIMENT-4.pdf) |
-| 5 | N-Gram (Bi-gram) Language Modeling | - | [View](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) |
-| 6 | Experiment 6 | - | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) |
-| 7 | Sequence Labeling using Viterbi Algorithm | - | [View](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) |
-| 8 | Morphological Parsing | - | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) |
-| 9 | Experiment 9 | - | [View](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf) |
-| 10 | Case Study: Research Paper Analysis | - | [View](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) |
+| # | Experiment | Date | Report | Kaggle |
+|:-:|:---|:---:|:-:|:-:|
+| 1 | Perform Word analysis and word generation to study morphology using Virtual Lab | January 19, 2022 | [View](Computational%20Lab%20-%20II/Experiment-1/AMEY_B-50_NLP_EXPERIMENT-1.pdf) | [Word Analysis](https://www.kaggle.com/ameythakur20/word-analysis) <br> [Word Generator](https://www.kaggle.com/ameythakur20/word-generator) |
+| 2 | Stemming and Lemmatization | - | [View](Computational%20Lab%20-%20II/Experiment-2/AMEY_B-50_NLP_EXPERIMENT-2.pdf) | [View](https://www.kaggle.com/ameythakur20/stemming-lemmatization) |
+| 3 | Experiment 3 | - | [View](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf) | - |
+| 4 | Experiment 4 | - | [View](Computational%20Lab%20-%20II/Experiment-4/AMEY_B-50_NLP_EXPERIMENT-4.pdf) | - |
+| 5 | N-Gram (Bi-gram) Language Modeling | - | [View](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) | [View](https://www.kaggle.com/ameythakur20/bigram) |
+| 6 | Experiment 6 | - | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) | - |
+| 7 | Sequence Labeling using Viterbi Algorithm | - | [View](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) | [View](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm) |
+| 8 | Morphological Parsing | - | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) | [View](https://www.kaggle.com/code/ameythakur20/morphological-parser) |
+| 9 | Experiment 9 | - | [View](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf) | - |
+| 10 | Case Study: Research Paper Analysis | - | [View](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) | - |
 
 ### Program Details
 
