@@ -190,7 +190,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 > [!TIP]
 > **Virtual Lab**: Explore the [IIIT Hyderabad NLP Virtual Lab](http://nlp-iiith.vlabs.ac.in) for interactive simulations.
 
-| # | Experiment | Date | Kaggle Notebook | Report |
+| # | Experiment | Date | Kaggle Notebooks | Report |
 |:-:|:---|:---:|:-:|:-:|
 | 1 | Perform Word analysis and word generation to study morphology using Virtual Lab | January 19, 2022 | [Word Analysis](https://www.kaggle.com/ameythakur20/word-analysis) <br> [Word Generator](https://www.kaggle.com/ameythakur20/word-generator) | [View](Computational%20Lab%20-%20II/Experiment-1/AMEY_B-50_NLP_EXPERIMENT-1.pdf) |
 | 2 | Stemming and Lemmatization | - | [Stemming & Lemmatization](https://www.kaggle.com/ameythakur20/stemming-lemmatization) | [View](Computational%20Lab%20-%20II/Experiment-2/AMEY_B-50_NLP_EXPERIMENT-2.pdf) |
