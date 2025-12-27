@@ -209,49 +209,49 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 <summary><b>Experiment-1: Word Analysis (2 Programs)</b></summary>
 <br>
 
-| Program | Category | Description | Code |
-|:---|:---|:---|:-:|
-| `Word_Analysis.py` | Morphology | Word analysis script identifying root and grammatical features | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Analysis.py) |
-| `Word_Generator.py` | Morphology | Word generation script based on morphological features | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Generator.py) |
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Word_Analysis.py` | Morphology | Word analysis script identifying root and grammatical features | [View](https://www.kaggle.com/ameythakur20/word-analysis) | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Analysis.py) |
+| `Word_Generator.py` | Morphology | Word generation script based on morphological features | [View](https://www.kaggle.com/ameythakur20/word-generator) | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Generator.py) |
 </details>
 
 <details>
 <summary><b>Experiment-2: Stemming & Lemmatization (1 Program)</b></summary>
 <br>
 
-| Program | Category | Description | Code |
-|:---|:---|:---|:-:|
-| `Stemming&Lemmatization.ipynb` | Morphology | Porter stemmer and WordNet lemmatization | [View](Computational%20Lab%20-%20II/Experiment-2/Stemming%26Lemmatization.ipynb) |
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Stemming&Lemmatization.ipynb` | Morphology | Porter stemmer and WordNet lemmatization | [View](https://www.kaggle.com/ameythakur20/stemming-lemmatization) | [View](Computational%20Lab%20-%20II/Experiment-2/Stemming%26Lemmatization.ipynb) |
 </details>
 
 <details>
 <summary><b>Experiment-5: Language Modeling (2 Programs)</b></summary>
 <br>
 
-| Program | Category | Description | Code |
-|:---|:---|:---|:-:|
-| `Bigram.ipynb` | N-Grams | Bi-gram language model notebook | [View](Computational%20Lab%20-%20II/Experiment-5/Bigram.ipynb) |
-| `Bi-gram.py` | N-Grams | Bi-gram implementation script | [View](Computational%20Lab%20-%20II/Experiment-5/Bi-gram.py) |
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Bigram.ipynb` | N-Grams | Bi-gram language model notebook | [View](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/Bigram.ipynb) |
+| `Bi-gram.py` | N-Grams | Bi-gram implementation script | - | [View](Computational%20Lab%20-%20II/Experiment-5/Bi-gram.py) |
 </details>
 
 <details>
 <summary><b>Experiment-7: Sequence Labeling (2 Programs)</b></summary>
 <br>
 
-| Program | Category | Description | Code |
-|:---|:---|:---|:-:|
-| `Viterbi_Algorithm.ipynb` | POS Tagging | Viterbi algorithm notebook | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.ipynb) |
-| `Viterbi_Algorithm.py` | POS Tagging | Viterbi algorithm script | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) |
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Viterbi_Algorithm.ipynb` | POS Tagging | Viterbi algorithm notebook | [View](https://www.kaggle.com/code/ameythakur20/viterbi-algorithm) | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.ipynb) |
+| `Viterbi_Algorithm.py` | POS Tagging | Viterbi algorithm script | - | [View](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) |
 </details>
 
 <details>
 <summary><b>Experiment-8: Morphology (2 Programs)</b></summary>
 <br>
 
-| Program | Category | Description | Code |
-|:---|:---|:---|:-:|
-| `Morphological_Parser.ipynb` | Parsing | Morphological parser notebook | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.ipynb) |
-| `Morphological_Parser.py` | Parsing | Morphological parser script | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) |
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `Morphological_Parser.ipynb` | Parsing | Morphological parser notebook | [View](https://www.kaggle.com/code/ameythakur20/morphological-parser) | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.ipynb) |
+| `Morphological_Parser.py` | Parsing | Morphological parser script | - | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) |
 </details>
 
 ---
