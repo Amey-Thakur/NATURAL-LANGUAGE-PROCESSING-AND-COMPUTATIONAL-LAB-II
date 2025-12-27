@@ -90,10 +90,15 @@ This collection includes **comprehensive reference materials** covering all majo
 | 18 | [Toppers Solution](Reference%20Books/NLP%20Toppers%20Solution.pdf) | University solved questions |
 | 19 | [Toppers MCQ Edition](Reference%20Books/NLP%20Toppers%20MCQ%20Edition.pdf) | MCQ preparation guide |
 | 20 | [MCQs Solution](Reference%20Books/NLP_MCQs_solution.pdf) | Solved MCQs |
-| 21 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
-| 22 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
-| 23 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
-| 24 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
+| 21 | [Notes/1. Introduction to NLP](Reference%20Books/Chapter%20wise%20notes/1.%20Introduction%20to%20NLP.pdf) | Chapter Note |
+| 22 | [Notes/2. Word level analysis](Reference%20Books/Chapter%20wise%20notes/2.%20Word%20level%20analysis.pdf) | Chapter Note |
+| 23 | [Notes/3. Syntax analysis](Reference%20Books/Chapter%20wise%20notes/3.%20Syntax%20analysis.pdf) | Chapter Note |
+| 24 | [Notes/5. Pragmatics](Reference%20Books/Chapter%20wise%20notes/5.%20Pragmatics.pdf) | Chapter Note |
+| 25 | [Notes/6. Applications](Reference%20Books/Chapter%20wise%20notes/6.Applications.pdf) | Chapter Note |
+| 26 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
+| 27 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
+| 28 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
+| 29 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
 
 ---
 
