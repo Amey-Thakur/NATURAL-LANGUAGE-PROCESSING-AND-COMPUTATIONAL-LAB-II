@@ -211,8 +211,8 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `Word_Analysis.ipynb` | Text Processing | Word frequency and analysis notebook | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Analysis.ipynb) |
-| `Word_Generator.ipynb` | Text Processing | Word generation techniques | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Generator.ipynb) |
+| `Word_Analysis.py` | Morphology | Word analysis script identifying root and grammatical features | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Analysis.py) |
+| `Word_Generator.py` | Morphology | Word generation script based on morphological features | [View](Computational%20Lab%20-%20II/Experiment-1/Word_Generator.py) |
 </details>
 
 <details>
