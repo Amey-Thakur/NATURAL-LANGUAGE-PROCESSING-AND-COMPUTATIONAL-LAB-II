@@ -90,6 +90,10 @@ This collection includes **comprehensive reference materials** covering all majo
 | 18 | [Toppers Solution](Reference%20Books/NLP%20Toppers%20Solution.pdf) | University solved questions |
 | 19 | [Toppers MCQ Edition](Reference%20Books/NLP%20Toppers%20MCQ%20Edition.pdf) | MCQ preparation guide |
 | 20 | [MCQs Solution](Reference%20Books/NLP_MCQs_solution.pdf) | Solved MCQs |
+| 21 | [PPT/NLP Lecture 1](Reference%20Books/Lectures%20PPT/NLP%20Lecture%201.pdf) | Lecture Slides |
+| 22 | [PPT/NLP Lecture 2](Reference%20Books/Lectures%20PPT/NLP%20Lecture%202.pdf) | Lecture Slides |
+| 23 | [PPT/NLP Lecture 3](Reference%20Books/Lectures%20PPT/NLP%20Lecture%203.pdf) | Lecture Slides |
+| 24 | [PPT/NLP Lecture 4](Reference%20Books/Lectures%20PPT/NLP%20Lecture%204.pdf) | Lecture Slides |
 
 ---
 
