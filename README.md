@@ -243,13 +243,12 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-5: Language Modeling (2 Programs)</b></summary>
+<summary><b>Experiment-5: Bi-gram Model (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
-| `Bigram.ipynb` | N-Grams | Bi-gram language model notebook | [View](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/Bigram.ipynb) |
-| `Bi-gram.py` | N-Grams | Bi-gram implementation script | - | [View](Computational%20Lab%20-%20II/Experiment-5/Bi-gram.py) |
+| `Bi_Gram_Model.py` | N-Grams | Bi-gram language model implementation | [View](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/Bi_Gram_Model.py) |
 </details>
 
 <details>
