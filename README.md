@@ -80,12 +80,12 @@ This collection includes **comprehensive reference materials** covering all majo
 | 8 | [NLP Chapter 2](Reference%20Books/nlp%20chapter%202.pdf) | Word Level Analysis |
 | 9 | [NLP Chapter 3](Reference%20Books/nlp%20chapter%203.pdf) | Language Modeling |
 | 10 | [NLP Theory](Reference%20Books/nlp_theory.pdf) | General theory notes |
-| 11 | [Module 1](Reference%20Books/NLP%201.pdf) | Module 1 |
-| 12 | [Module 2](Reference%20Books/NLP%202.pdf) | Module 2 |
-| 13 | [Module 3](Reference%20Books/NLP%203.pdf) | Module 3 |
-| 14 | [Module 4](Reference%20Books/NLP%204.pdf) | Module 4 |
-| 15 | [Module 5](Reference%20Books/NLP%205.pdf) | Module 5 |
-| 16 | [Module 6](Reference%20Books/NLP%206.pdf) | Module 6 |
+| 11 | [NLP 1](Reference%20Books/NLP%201.pdf) | Module 1 |
+| 12 | [NLP 2](Reference%20Books/NLP%202.pdf) | Module 2 |
+| 13 | [NLP 3](Reference%20Books/NLP%203.pdf) | Module 3 |
+| 14 | [NLP 4](Reference%20Books/NLP%204.pdf) | Module 4 |
+| 15 | [NLP 5](Reference%20Books/NLP%205.pdf) | Module 5 |
+| 16 | [NLP 6](Reference%20Books/NLP%206.pdf) | Module 6 |
 | 17 | [NLP Questions & Answers](Reference%20Books/NLP_questions_with_answers.pdf) | Solved questions |
 | 18 | [Toppers Solution](Reference%20Books/NLP%20Toppers%20Solution.pdf) | University solved questions |
 | 19 | [Toppers MCQ Edition](Reference%20Books/NLP%20Toppers%20MCQ%20Edition.pdf) | MCQ preparation guide |
