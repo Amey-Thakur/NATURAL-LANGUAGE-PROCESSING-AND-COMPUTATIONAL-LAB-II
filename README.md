@@ -194,7 +194,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 |:-:|:---|:---:|:-:|:-:|
 | 1 | Perform Word analysis and word generation to study morphology using Virtual Lab | January 19, 2022 | [Word Analysis](https://www.kaggle.com/ameythakur20/word-analysis) <br> [Word Generator](https://www.kaggle.com/ameythakur20/word-generator) | [View](Computational%20Lab%20-%20II/Experiment-1/AMEY_B-50_NLP_EXPERIMENT-1.pdf) |
 | 2 | Implement stemming and lemmatization operations for a corpus | January 31, 2022 | [Stemming & Lemmatization](https://www.kaggle.com/ameythakur20/stemming-lemmatization) | [View](Computational%20Lab%20-%20II/Experiment-2/AMEY_B-50_NLP_EXPERIMENT-2.pdf) |
-| 3 | Perform and analyse an n-gram modelling for corpuses using Virtual Lab | February 07, 2022 | - | [View](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf) |
+| 3 | Perform and analyse an n-gram modelling for corpuses using Virtual Lab | February 07, 2022 | [N-Gram Modelling](Computational%20Lab%20-%20II/Experiment-3/N_Gram_Modelling.py) | [View](Computational%20Lab%20-%20II/Experiment-3/AMEY_B-50_NLP_EXPERIMENT-3.pdf) |
 | 4 | Experiment 4 | - | - | [View](Computational%20Lab%20-%20II/Experiment-4/AMEY_B-50_NLP_EXPERIMENT-4.pdf) |
 | 5 | N-Gram (Bi-gram) Language Modeling | - | [Bi-gram](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) |
 | 6 | Experiment 6 | - | - | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) |
@@ -222,6 +222,15 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
 | `Stemming_Lemmatization.py` | Morphology | Porter stemmer and WordNet lemmatization | [View](https://www.kaggle.com/ameythakur20/stemming-lemmatization) | [View](Computational%20Lab%20-%20II/Experiment-2/Stemming_Lemmatization.py) |
+</details>
+
+<details>
+<summary><b>Experiment-3: N-Gram Modelling (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Kaggle | Code |
+|:---|:---|:---|:-:|:-:|
+| `N_Gram_Modelling.py` | N-Grams | Bigram probability calculation for a corpus | - | [View](Computational%20Lab%20-%20II/Experiment-3/N_Gram_Modelling.py) |
 </details>
 
 <details>
