@@ -16,7 +16,7 @@
 
   ---
 
-  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment-1](#experiment-1-word-analysis) &nbsp;·&nbsp; [Experiment-2](#experiment-2-stemming--lemmatization) &nbsp;·&nbsp; [Experiment-3](#experiment-3-n-gram-modelling) &nbsp;·&nbsp; [Experiment-4](#experiment-4-n-gram-smoothing) &nbsp;·&nbsp; [Experiment-5](#experiment-5-bi-gram-model) &nbsp;·&nbsp; [Experiment-6](#experiment-6-pos-tagging) &nbsp;·&nbsp; [Experiment-7](#experiment-7-viterbi-algorithm) &nbsp;·&nbsp; [Experiment-8](#experiment-8-morphological-parsing) &nbsp;·&nbsp; [Experiment-9](#experiment-9-chunking) &nbsp;·&nbsp; [Experiment-10](#experiment-10-semantic-analysis)
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-word-analysis) &nbsp;·&nbsp; [Experiment 2](#experiment-2-stemming--lemmatization) &nbsp;·&nbsp; [Experiment 3](#experiment-3-n-gram-modelling) &nbsp;·&nbsp; [Experiment 4](#experiment-4-n-gram-smoothing) &nbsp;·&nbsp; [Experiment 5](#experiment-5-bi-gram-model) &nbsp;·&nbsp; [Experiment 6](#experiment-6-pos-tagging) &nbsp;·&nbsp; [Experiment 7](#experiment-7-viterbi-algorithm) &nbsp;·&nbsp; [Experiment 8](#experiment-8-morphological-parsing) &nbsp;·&nbsp; [Experiment 9](#experiment-9-chunking) &nbsp;·&nbsp; [Experiment 10](#experiment-10-semantic-analysis)
 
 </div>
 
@@ -247,7 +247,7 @@ Case Study: Research Paper Analysis - Semantic Analysis of NLP.
   <!-- Footer Navigation -->
   [↑ Back to Top](#computational-lab-ii)
 
-  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment-1](#experiment-1-word-analysis) &nbsp;·&nbsp; [Experiment-2](#experiment-2-stemming--lemmatization) &nbsp;·&nbsp; [Experiment-3](#experiment-3-n-gram-modelling) &nbsp;·&nbsp; [Experiment-4](#experiment-4-n-gram-smoothing) &nbsp;·&nbsp; [Experiment-5](#experiment-5-bi-gram-model) &nbsp;·&nbsp; [Experiment-6](#experiment-6-pos-tagging) &nbsp;·&nbsp; [Experiment-7](#experiment-7-viterbi-algorithm) &nbsp;·&nbsp; [Experiment-8](#experiment-8-morphological-parsing) &nbsp;·&nbsp; [Experiment-9](#experiment-9-chunking) &nbsp;·&nbsp; [Experiment-10](#experiment-10-semantic-analysis)
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-word-analysis) &nbsp;·&nbsp; [Experiment 2](#experiment-2-stemming--lemmatization) &nbsp;·&nbsp; [Experiment 3](#experiment-3-n-gram-modelling) &nbsp;·&nbsp; [Experiment 4](#experiment-4-n-gram-smoothing) &nbsp;·&nbsp; [Experiment 5](#experiment-5-bi-gram-model) &nbsp;·&nbsp; [Experiment 6](#experiment-6-pos-tagging) &nbsp;·&nbsp; [Experiment 7](#experiment-7-viterbi-algorithm) &nbsp;·&nbsp; [Experiment 8](#experiment-8-morphological-parsing) &nbsp;·&nbsp; [Experiment 9](#experiment-9-chunking) &nbsp;·&nbsp; [Experiment 10](#experiment-10-semantic-analysis)
 
   <br>
 
