@@ -162,11 +162,13 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description |
-|:-:|:---|:---|
-| 1 | [Assignment 1](Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf) | Introduction to NLP and text processing fundamentals |
-| 2 | [Assignment 2](Assignments/AMEY_B-50_NLP_ASSIGNMENT-2.pdf) | Language modeling and N-grams |
-| 3 | [Assignment 3](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) | Sequence labeling, POS tagging, and parsing |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:-:|
+| 1 | [Assignment 1](Assignments/AMEY_B-50_NLP_ASSIGNMENT-1.pdf) | Generic NLP system, NLP processing steps, Ambiguity, Morphology, FST, Stemming & Lemmatization, RE, POS tagging, N-Gram | March 06, 2022 | 9/10 |
+| 2 | [Assignment 2](Assignments/AMEY_B-50_NLP_ASSIGNMENT-2.pdf) | CFG, HMM, Maximum Entropy, CRF, WordNet, WSD, Pragmatics, Machine Translation, Sentiment Analysis, NER | April 10, 2022 | 8/10 |
+| 3 | [Assignment 3](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3.pdf) ([Draft](Assignments/AMEY_B-50_NLP_ASSIGNMENT-3%20DRAFT.pdf)) | Semantic Processing, Graph Processing, Syntactic Processing, Morphological Processing, Lexical Processing | April 10, 2022 | 9/10 |
+
+**Topics Covered**: Generic NLP System · Ambiguity · Morphology · Finite State Transducers (FST) · Stemming & Lemmatization · Part-of-Speech (POS) Tagging · N-Grams · Context-Free Grammars (CFG) · Hidden Markov Models (HMM) · WordNet · Word Sense Disambiguation (WSD) · Pragmatics · Machine Translation · Sentiment Analysis · Named Entity Recognition (NER) · Semantic Processing
 
 ---
 
