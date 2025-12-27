@@ -270,13 +270,12 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-8: Morphology (2 Programs)</b></summary>
+<summary><b>Experiment-8: Morphological Parsing (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
 |:---|:---|:---|:-:|:-:|
-| `Morphological_Parser.ipynb` | Parsing | Morphological parser notebook | [View](https://www.kaggle.com/code/ameythakur20/morphological-parser) | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.ipynb) |
-| `Morphological_Parser.py` | Parsing | Morphological parser script | - | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) |
+| `Morphological_Parser.py` | Morphology | Morphological parser implementation | [View](https://www.kaggle.com/code/ameythakur20/morphological-parser) | [View](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) |
 </details>
 
 ---
