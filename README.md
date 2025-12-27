@@ -199,7 +199,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 | 5 | Implement a bi-gram model for 3 sentences using python or NLTK | February 21, 2022 | [Bi-gram](https://www.kaggle.com/ameythakur20/bigram) | [View](Computational%20Lab%20-%20II/Experiment-5/AMEY_B-50_NLP_EXPERIMENT-5.pdf) |
 | 6 | Perform and analyse POS Tagging - Hidden Markov Model using a virtual lab | February 28, 2022 | [POS Tagging](https://www.kaggle.com/code/ameythakur20/pos-tagging) | [View](Computational%20Lab%20-%20II/Experiment-6/AMEY_B-50_NLP_EXPERIMENT-6.pdf) |
 | 7 | Implement the Viterbi algorithm using python or NLTK | April 01, 2022 | [Viterbi Algorithm](Computational%20Lab%20-%20II/Experiment-7/Viterbi_Algorithm.py) | [View](Computational%20Lab%20-%20II/Experiment-7/AMEY_B-50_NLP_EXPERIMENT-7.pdf) |
-| 8 | Morphological Parsing | - | [Morphological Parser](https://www.kaggle.com/code/ameythakur20/morphological-parser) | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) |
+| 8 | Implement morphological parser to accept and reject given string | April 01, 2022 | [Morphological Parser](Computational%20Lab%20-%20II/Experiment-8/Morphological_Parser.py) | [View](Computational%20Lab%20-%20II/Experiment-8/AMEY_B-50_NLP_EXPERIMENT-8.pdf) |
 | 9 | Experiment 9 | - | - | [View](Computational%20Lab%20-%20II/Experiment-9/AMEY_B-50_NLP_EXPERIMENT-9.pdf) |
 | 10 | Case Study: Research Paper Analysis | - | - | [View](Computational%20Lab%20-%20II/Experiment-10/AMEY_B-50_NLP_CASE_STUDY.pdf) |
 
