@@ -432,9 +432,13 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional contribution to this repository through "The Wall" - comprehensive module-wise notes that became an invaluable resource for understanding complex NLP concepts. Her constant support, patience, and clarity throughout this journey made a real difference.
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional contribution to this repository through "The Wall" - comprehensive module-wise notes that became an invaluable resource for understanding complex Natural Language Processing concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. Beyond the notes, her collaborative efforts and contributions to the **"Research Paper Analysis - Semantic Analysis of NLP"** project were invaluable to its success. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Natural Language Processing.
+Grateful acknowledgment to **Hasan Rizvi** for his exceptional support, collaborative efforts, and the technical insights he shared during the development of the **"Research Paper Analysis - Semantic Analysis of NLP"** project. Working alongside him was a truly enriching experience - his technical expertise, dedication to exploring linguistic frameworks, and enthusiasm for innovation turned every challenge into a meaningful learning opportunity. Our shared curiosity and collaborative efforts in analyzing complex semantic structures were essential to the project's success. Thank you, Hasan, for being such an outstanding project partner and for all the knowledge and encouragement you shared along the way.
+
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Natural Language Processing. Their expertise and support helped develop a strong understanding of computational linguistics and language modeling.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
