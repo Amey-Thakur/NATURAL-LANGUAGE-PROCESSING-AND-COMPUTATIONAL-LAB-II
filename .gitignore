@@ -1,27 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Natural Language Processing - Academic Repository
+# Specialized .gitignore for linguistic processing and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -34,7 +30,7 @@ env/
 */.ipynb_checkpoints/*
 
 # NLP Specific
-# Large model files or datasets
+# Large model files, pickles, and datasets
 *.bin
 *.model
 *.pkl
@@ -49,7 +45,7 @@ spaCy_data/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -59,6 +55,8 @@ spaCy_data/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -66,5 +64,13 @@ spaCy_data/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
