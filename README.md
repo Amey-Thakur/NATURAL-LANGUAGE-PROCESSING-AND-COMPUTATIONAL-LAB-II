@@ -123,6 +123,8 @@ This collection includes **comprehensive reference materials** covering all majo
 | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <a href="https://github.com/msatmod"><img src="THE%20WALL/Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod) |
 | :---: | :---: |
 
+</div>
+
 ### The Wall - Notes Authored by [MEGA SATISH](https://github.com/msatmod)
 
 Comprehensive module-wise notes curated by Mega Satish, covering all essential topics:
