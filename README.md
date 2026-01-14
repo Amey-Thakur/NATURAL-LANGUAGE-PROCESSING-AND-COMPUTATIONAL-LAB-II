@@ -435,7 +435,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Computational Lab II](Computational%20Lab%20-%20II/)** &nbsp;·&nbsp; <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="20" height="20" alt="Kaggle"/> **[Kaggle Profile](https://www.kaggle.com/ameythakur20)**
+  🔬 **[Computational Lab II](Computational%20Lab%20-%20II/)** &nbsp;·&nbsp; <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="20" height="20" alt="Kaggle"/> **Kaggle** [**Amey**](https://www.kaggle.com/ameythakur20) & [**Mega**](https://www.kaggle.com/megasatish)
 
 </div>
 
