@@ -206,7 +206,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 ### Program Details
 
 <details>
-<summary><b>Experiment-1: Word Analysis (2 Programs)</b></summary>
+<summary><b>Experiment 1: Word Analysis (2 Programs)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -216,7 +216,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-2: Stemming & Lemmatization (1 Program)</b></summary>
+<summary><b>Experiment 2: Stemming & Lemmatization (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -225,7 +225,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-3: N-Gram Modelling (1 Program)</b></summary>
+<summary><b>Experiment 3: N-Gram Modelling (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -234,7 +234,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-4: Smoothing (1 Program)</b></summary>
+<summary><b>Experiment 4: Smoothing (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -243,7 +243,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-5: Bi-gram Model (1 Program)</b></summary>
+<summary><b>Experiment 5: Bi-gram Model (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -252,7 +252,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-6: POS Tagging (1 Program)</b></summary>
+<summary><b>Experiment 6: POS Tagging (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -261,7 +261,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-7: Viterbi Algorithm (1 Program)</b></summary>
+<summary><b>Experiment 7: Viterbi Algorithm (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -270,7 +270,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-8: Morphological Parsing (1 Program)</b></summary>
+<summary><b>Experiment 8: Morphological Parsing (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -279,7 +279,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-9: Chunking (1 Program)</b></summary>
+<summary><b>Experiment 9: Chunking (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
@@ -288,7 +288,7 @@ The laboratory component (CSL804) focuses on implementing NLP algorithms and tec
 </details>
 
 <details>
-<summary><b>Experiment-10: Semantic Analysis (1 Program)</b></summary>
+<summary><b>Experiment 10: Semantic Analysis (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Kaggle | Code |
