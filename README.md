@@ -323,7 +323,7 @@ Internal assessment evaluations conducted during the course:
 |:-:|:---|:---|
 | 1 | [Question Paper](IAT-2/NLP_IAT-2_Question_Paper.pdf) | NLP Internal Assessment Test 2 Question Paper |
 
-### Additional Resources:
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -347,7 +347,7 @@ Final semester examination submission:
 |:-:|:---|:---|:-:|
 | 1 | [Question Paper](Semester%20Exam/NLP.pdf) | Official University Question Paper | May 26, 2022 |
 
-### Additional Resources:
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
