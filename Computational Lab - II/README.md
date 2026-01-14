@@ -251,7 +251,7 @@ Case Study: Research Paper Analysis - Semantic Analysis of NLP.
 
   <br>
 
-  🏠 **[Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="20" height="20" alt="Kaggle"/> **Kaggle** [**Amey**](https://www.kaggle.com/ameythakur20) & [**Mega**](https://www.kaggle.com/megasatish)
 
 </div>
 
