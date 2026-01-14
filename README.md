@@ -435,7 +435,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Computational Lab II](Computational%20Lab%20-%20II/)**
+  🔬 **[Computational Lab II](Computational%20Lab%20-%20II/)** &nbsp;·&nbsp; 🏅 **[Kaggle Profile](https://www.kaggle.com/ameythakur20)**
 
 </div>
 
