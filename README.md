@@ -52,7 +52,7 @@ As a computer engineer, understanding NLP is crucial for developing intelligent 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through NLP.
+- **Academic Documentation**: To authentically document my learning journey through Natural Language Processing and Computational Lab II.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
