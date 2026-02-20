@@ -51,7 +51,7 @@ As a computer engineer, understanding NLP is crucial for developing intelligent 
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of NLP concepts.
 - **Academic Documentation**: To authentically document my learning journey through Natural Language Processing and Computational Lab II.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
