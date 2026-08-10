@@ -7,10 +7,10 @@
 
   ### CSL804 · Semester VIII · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-word-analysis)
-  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](./)
-  [![Type](https://img.shields.io/badge/Type-Code%20%7C%20PDF-brightgreen.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#experiment-1-word-analysis)
+  [![Language](https://img.shields.io/badge/Language-Python-3776AB.svg)](./)
+  [![Type](https://img.shields.io/badge/Type-Code%20%7C%20PDF-546E7A.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Natural Language Processing, covering morphology, language modeling, POS tagging, parsing, and semantic analysis.**
 
@@ -266,3 +266,4 @@ Case Study: Research Paper Analysis - Semantic Analysis of NLP.
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
+
