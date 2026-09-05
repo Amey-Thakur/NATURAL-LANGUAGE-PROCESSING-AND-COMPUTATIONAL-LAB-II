@@ -1,0 +1,40 @@
+# Natural Language Processing and Computational Lab II
+
+> DLO8012: Natural Language Processing [NLP] & CSL804: Computational Lab -
+> II | BE Semester VIII | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VIII
+Course codes: DLO8012, CSL804
+Licence: CC BY 4.0, attribution required
+Repository created: 23 January 2022
+Work dated: 9 August 2022
+
+## What is in this repository
+
+- Assignments, 4 files
+- Computational Lab - II, 30 files
+- IAT-1, 4 files
+- IAT-2, 4 files
+- Reference Books, 44 files
+- Semester Exam, 7 files
+- Submission Report, 5 files
+- THE WALL, 11 files
+- BE Time Table.pdf
+- MU SEM VIII SYLLABUS.pdf
+
+## Subject terms
+
+computer-engineering, computer-science, engineering, hmm-viterbi-algorithm,
+machine-learning, morphological-analysis, n-grams, natural-language,
+natural-language-processing, nlp, nlp-machine-learning, nltk, pos-tagging,
+sentiment-analysis, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
